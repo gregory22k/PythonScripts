@@ -1,2 +1,0 @@
-# PythonScripts
-Python Scritps
